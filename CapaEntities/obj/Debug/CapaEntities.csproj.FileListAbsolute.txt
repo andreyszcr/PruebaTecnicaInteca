@@ -1,0 +1,6 @@
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaEntities\bin\Debug\CapaEntities.dll
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaEntities\bin\Debug\CapaEntities.pdb
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaEntities\obj\Debug\CapaEntities.csproj.AssemblyReference.cache
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaEntities\obj\Debug\CapaEntities.csproj.CoreCompileInputs.cache
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaEntities\obj\Debug\CapaEntities.dll
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaEntities\obj\Debug\CapaEntities.pdb

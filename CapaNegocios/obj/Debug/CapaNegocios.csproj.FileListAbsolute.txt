@@ -1,0 +1,11 @@
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaNegocios\bin\Debug\CapaNegocios.dll
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaNegocios\bin\Debug\CapaNegocios.pdb
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaNegocios\bin\Debug\CapaDatos.dll
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaNegocios\bin\Debug\CapaEntities.dll
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaNegocios\bin\Debug\CapaDatos.pdb
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaNegocios\bin\Debug\CapaEntities.pdb
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaNegocios\obj\Debug\CapaNegocios.dll
+E:\Andrey\Documents\2022\Freelance\WsVentas\CapaNegocios\obj\Debug\CapaNegocios.pdb

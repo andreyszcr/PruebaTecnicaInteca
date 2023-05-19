@@ -1,0 +1,14 @@
+E:\Andrey\Documents\2022\Freelance\WsVentas\WsVentas\bin\WsVentas.dll.config
+E:\Andrey\Documents\2022\Freelance\WsVentas\WsVentas\bin\WsVentas.dll
+E:\Andrey\Documents\2022\Freelance\WsVentas\WsVentas\bin\WsVentas.pdb
+E:\Andrey\Documents\2022\Freelance\WsVentas\WsVentas\obj\Debug\WsVentas.csproj.AssemblyReference.cache
+E:\Andrey\Documents\2022\Freelance\WsVentas\WsVentas\obj\Debug\WsVentas.csproj.CoreCompileInputs.cache
+E:\Andrey\Documents\2022\Freelance\WsVentas\WsVentas\obj\Debug\WsVentas.dll
+E:\Andrey\Documents\2022\Freelance\WsVentas\WsVentas\obj\Debug\WsVentas.pdb
+E:\Andrey\Documents\2022\Freelance\WsVentas\WsVentas\bin\CapaEntities.dll
+E:\Andrey\Documents\2022\Freelance\WsVentas\WsVentas\bin\CapaNegocios.dll
+E:\Andrey\Documents\2022\Freelance\WsVentas\WsVentas\bin\CapaDatos.dll
+E:\Andrey\Documents\2022\Freelance\WsVentas\WsVentas\bin\CapaEntities.pdb
+E:\Andrey\Documents\2022\Freelance\WsVentas\WsVentas\bin\CapaNegocios.pdb
+E:\Andrey\Documents\2022\Freelance\WsVentas\WsVentas\bin\CapaDatos.pdb
+E:\Andrey\Documents\2022\Freelance\WsVentas\WsVentas\obj\Debug\WsVentas.csproj.CopyComplete
